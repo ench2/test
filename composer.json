@@ -1,0 +1,16 @@
+{
+    "name": "ench2/test",
+    "authors": [
+        {
+            "name": "root",
+            "email": "4100798@qq.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+          "Ench2\\Test\\": "src/"
+        }
+      },
+    "require": {}
+}
